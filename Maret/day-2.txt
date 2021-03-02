@@ -1,31 +1,29 @@
-마나소 반가워요
-잘지냈오요
-안녕하세요
-감사합니다
-요리하다
+마나소 반가워요 - senang bertemu dengan mu
+잘지냈오요 - apa kabar
+안녕하세요 -halo
+감사합니다 - terima kasih
+요리하다 - memasak
 있습니다
-메시지
-사람
-남자
-여자
-한국
-저는
+메시지 - pesan
+사람 - orang
+남자 - pria
+여자 - wanita
+한국 - korea
+저는 - saya
 진짜
-설마
-대박
-연필
-연필
+설마 - masa sih
+대박 - bagus
+연필 - pensil
 영화
-학교
-하고
-학생
-사과
-빵
-차
-네
-예
-산
-빵
-집
+학교 - sekolah
+하고 
+학생 - murid
+사과 - apel
+빵 - roti
+차 - teh
+네 - ya
+예 - iya
+산 - gunung
+집 - rumah
 와
 맛
