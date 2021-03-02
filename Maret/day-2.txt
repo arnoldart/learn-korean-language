@@ -11,7 +11,7 @@
 여자 - wanita
 한국 - korea
 저는 - saya
-진짜
+진짜 - beneran
 설마 - masa sih
 대박 - bagus
 연필 - pensil
@@ -26,5 +26,5 @@
 예 - iya
 산 - gunung
 집 - rumah
-와 - 
+와
 맛 - mat
