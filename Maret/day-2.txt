@@ -5,6 +5,7 @@
 요리하다 - memasak
 있습니다
 메시지 - pesan
+임미다 - ini adalah
 사람 - orang
 남자 - pria
 여자 - wanita
@@ -14,9 +15,9 @@
 설마 - masa sih
 대박 - bagus
 연필 - pensil
-영화
+영화 - film
 학교 - sekolah
-하고 
+하고 - dan
 학생 - murid
 사과 - apel
 빵 - roti
@@ -25,5 +26,5 @@
 예 - iya
 산 - gunung
 집 - rumah
-와
-맛
+와 - 
+맛 - mat
