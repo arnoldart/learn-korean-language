@@ -1,9 +1,9 @@
 마나소 반가워요 - senang bertemu dengan mu
-잘지냈오요 - apa kabar
+잘지냈어요 - apa kabar
 안녕하세요 -halo
 감사합니다 - terima kasih
 요리하다 - memasak
-있습니다
+었습니다 - kata untuk yg positif
 메시지 - pesan
 임미다 - ini adalah
 사람 - orang
@@ -17,14 +17,14 @@
 연필 - pensil
 영화 - film
 학교 - sekolah
-하고 - dan
 학생 - murid
 사과 - apel
+하고 - dan
 빵 - roti
 차 - teh
 네 - ya
 예 - iya
 산 - gunung
 집 - rumah
-와
-맛 - mat
+와 - dengan/wow
+맛 - rasa
