@@ -1,40 +1,39 @@
-만나소 반가워요
-안녕하세요
-잘지냈어요
-감사합니다
-죄소합니다
-지루합니다
-요리하다
-었습니다
-없습니다
-메시지
-아니요
-선생님
-의미
-사과
-저는
-진짜
-대박
-설바
-사람
-영화
-핛생
-학고
-남자
-여자
-친구
-음식
-하고
-가수
-헐
-차
-와
-맛
-네
-예
-빵
-책
-집
-신
-낮
-밤
+만나소 반가워요 - senang bertemu dengan mu 
+안녕하세요 - halo
+잘지냈어요 - apa kabar
+감사합니다 - terima kasih 
+죄송합니다 - maaf
+지루합니다 - membosanakan
+요리하다 - memasak
+었습니다 - positif
+없습니다 - negatif
+메시지 - pesan
+아니요 - tidak
+선생님 - guru
+의미 - berarti
+사과 - apel
+저는 - saya
+진짜 - beneran
+대박 - bagus
+설바 - masa sih
+사람 - orang
+영화 - film
+핛생 - murid
+학고 - sekolah
+남자 - pria
+여자 - wanita
+친구 - teman
+음식 - makanan
+가수 - penyanyi
+헐 - yah
+차 - teh
+와 - wow
+맛 - rasa
+네 - ya
+예 - iya
+빵 - roti
+책 - buku
+집 - rumah
+산 - gunung 
+낮 - siang 
+밤 - malam
